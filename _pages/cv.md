@@ -11,54 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Arizona State University, 2024 - Present
+* M.S. in Applied Mathematics, Fudan University, 2021 - 2024
+* B.S. in Mathematics and Applied Mathematics, Fudan University, 2017 - 2024
 
-Work experience
+Hilighted Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Alibaba Group (Jul 2023 - Apr 2024)
+  * Institute for Intelligent Computing (previously Damo Academy)
+  * Research Internship
+  * Mentor: Ruixue Ding
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Stanford University (Jan 2023 - Feb 2024)
+  * SALT Lab
+  * Research Internship
+  * Advisor: [Prof. Diyi Yang](https://cs.stanford.edu/~diyiy/index.html)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Amazon Web Services (May 2022 - Jul 2023)
+  * Shanghai AI Lab
+  * Research Internship
+  * Mentor: Xiangkun Hu
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for ARR cycles (EMNLP, ACL)
