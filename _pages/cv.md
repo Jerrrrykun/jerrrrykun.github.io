@@ -15,7 +15,7 @@ Education
 * M.S. in Applied Mathematics, Fudan University, 2021 - 2024
 * B.S. in Mathematics and Applied Mathematics, Fudan University, 2017 - 2024
 
-Hilighted Work experience
+Hilighted Work Experience
 ======
 * Alibaba Group (Jul 2023 - Apr 2024)
   * Institute for Intelligent Computing (previously Damo Academy)
@@ -33,6 +33,6 @@ Hilighted Work experience
   * Mentor: Xiangkun Hu
   
 
-Service and leadership
+Service and Leadership
 ======
 * Reviewer for ARR cycles (EMNLP, ACL)
