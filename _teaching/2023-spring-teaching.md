@@ -1,7 +1,7 @@
 ---
-title: "Teaching Assistant for Deep Learning"
+title: "Deep Learning"
 collection: teaching
-type: "Undergraduate course"
+type: "Teaching Assistant, Undergraduate course"
 permalink: /teaching/2023-spring-teaching
 venue: "School of Mathematical Science, Fudan University"
 date: Feb 2023 - June 2023
