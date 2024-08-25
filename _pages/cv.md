@@ -25,7 +25,7 @@ Hilighted Work Experience
 * Stanford University (Jan 2023 - Feb 2024)
   * SALT Lab
   * Research Internship
-  * Advisor: [Prof. Diyi Yang](https://cs.stanford.edu/~diyiy/index.html)
+  * Advisor: Prof. [Diyi Yang](https://cs.stanford.edu/~diyiy/index.html)
 
 * Amazon Web Services (May 2022 - Jul 2023)
   * Shanghai AI Lab
