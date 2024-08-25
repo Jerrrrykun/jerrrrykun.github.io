@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Computer Science, Arizona State University, 2024 - Present
 * M.S. in Applied Mathematics, Fudan University, 2021 - 2024
-* B.S. in Mathematics and Applied Mathematics, Fudan University, 2017 - 2024
+* B.S. in Mathematics and Applied Mathematics, Fudan University, 2017 - 2021
 
 Hilighted Work Experience
 ======
