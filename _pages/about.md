@@ -13,7 +13,7 @@ Previously, I did a research internship at Stanford SALT lab with Prof. [Diyi Ya
 
 News
 ------
-**Aug 2024**:    Glad to join *AI Reasoning & Cognition (ARC) Lab* and be advised by Prof. [Ben Zhou](http://xuanyu.me/)
+**Aug 2024**:    Glad to join [*AI Reasoning & Cognition (ARC) Lab*](https://arc-asu.github.io/) and be advised by Prof. [Ben Zhou](http://xuanyu.me/)
 
 **Sep 2023**:    One paper accepted in NeurlPS 2023 D&B Track!
 
