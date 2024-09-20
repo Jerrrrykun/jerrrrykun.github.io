@@ -13,13 +13,15 @@ Previously, I did a research internship at Stanford SALT lab with Prof. [Diyi Ya
 
 News
 ------
+**Sep 2024**:    One paper accepted in Findings of EMNLP 2024!🎉
+
 **Aug 2024**:    Glad to join [*AI Reasoning & Cognition (ARC) Lab*](https://arc-asu.github.io/) and be advised by Prof. [Ben Zhou](http://xuanyu.me/)
 
-**Sep 2023**:    One paper accepted in NeurlPS 2023 D&B Track!
+**Sep 2023**:    One paper accepted in NeurlPS 2023 D&B Track!🎉
 
-**May 2023**:    One paper accepted in Findings of ACL 2023!
+**May 2023**:    One paper accepted in Findings of ACL 2023!🎉
 
 
 Miscellaneous
 ------
-- 
+- TBD
