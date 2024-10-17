@@ -35,5 +35,5 @@ Hilighted Work Experience
 
 Service and Leadership
 ======
-* Reviewer for ARR cycles (EMNLP, ACL)
+* Reviewer for ARR cycles (ACL, EMNLP, NAACL)
 * Reviewer for ICLR
