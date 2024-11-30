@@ -20,7 +20,7 @@ Hilighted Work Experience
 * Alibaba Group (Jul 2023 - Apr 2024)
   * Institute for Intelligent Computing (previously Damo Academy)
   * Research Internship
-  * Mentor: Ruixue Ding
+  * Mentor: [Ruixue Ding](https://scholar.google.com/citations?user=wAktw3cAAAAJ&hl)
 
 * Stanford University (Jan 2023 - Feb 2024)
   * SALT Lab
@@ -30,7 +30,7 @@ Hilighted Work Experience
 * Amazon Web Services (May 2022 - Jul 2023)
   * Shanghai AI Lab
   * Research Internship
-  * Mentor: Xiangkun Hu
+  * Mentor: [Xiangkun Hu](https://www.amazon.science/author/xiangkun-hu)
   
 
 Service and Leadership
