@@ -13,6 +13,8 @@ Previously, I did a research internship at Stanford SALT lab with Prof. [Diyi Ya
 
 News
 ------
+**Jan 2025**:    One paper accepted in NAACL 2025!🎉 [Go New Mexico!](https://2025.naacl.org/)
+
 **Nov 2024**:    One paper accepted in COLING 2025!🎉
 
 **Aug 2024**:    Glad to join [*AI Reasoning & Cognition (ARC) Lab*](https://arc-asu.github.io/) and be advised by Prof. [Ben Zhou](http://xuanyu.me/)
