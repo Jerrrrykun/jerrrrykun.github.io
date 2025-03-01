@@ -26,4 +26,4 @@ News
 
 Miscellaneous
 ------
-- TBD
+- How to pronounce my first name: **Chih k'un**
