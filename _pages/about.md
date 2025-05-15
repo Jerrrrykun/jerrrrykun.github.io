@@ -15,7 +15,7 @@ Previously, I did a research internship at Stanford SALT lab with Prof. [Diyi Ya
 
 News
 ------
-**May 2025**:    One paper accepted in ICML 2025!🎉
+**May 2025**:    Two papers accepted in ICML 2025 and Findings of ACL 2025!🎉
 
 **Jan 2025**:    One paper accepted in NAACL 2025!🎉 [Go New Mexico!](https://2025.naacl.org/)
 
