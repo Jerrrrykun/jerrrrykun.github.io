@@ -15,10 +15,15 @@ Education
 * M.S. in Applied Mathematics, Fudan University, 2021 - 2024
 * B.S. in Mathematics and Applied Mathematics, Fudan University, 2017 - 2021
 
-Hilighted Work Experience
+Highlighted Work Experience
 ======
+* Advanced Micro Devices, Inc. (May 2025 - Present)
+  * GenAI Team
+  * Research Internship
+  * Mentor: Dr. [Xiaodong Yu](https://www.xiaodongyu.me/)
+
 * Alibaba Group (Jul 2023 - Apr 2024)
-  * Institute for Intelligent Computing (previously Damo Academy)
+  * Tongyi Qwen Lab
   * Research Internship
   * Mentor: [Ruixue Ding](https://scholar.google.com/citations?user=wAktw3cAAAAJ&hl)
 
