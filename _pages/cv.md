@@ -35,7 +35,7 @@ Highlighted Work Experience
 * Amazon Web Services (May 2022 - Jul 2023)
   * Shanghai AI Lab
   * Research Internship
-  * Mentor: [Xiangkun Hu](https://www.amazon.science/author/xiangkun-hu)
+  * Mentor: [Xiangkun Hu](https://scholar.google.com/citations?user=_-0MpawAAAAJ&hl=en)
   
 
 Service and Leadership
