@@ -14,6 +14,8 @@ Currently, I am also a research intern at the AMD GenAI team. Previously, I did 
 
 News
 ------
+**Aug 2025**:    One paper accepted in Findings of EMNLP 2025!🎉
+
 **May 2025**:    Two papers accepted in ICML 2025 and Findings of ACL 2025!🎉
 
 **Jan 2025**:    One paper accepted in NAACL 2025!🎉 [Go New Mexico!](https://2025.naacl.org/)
