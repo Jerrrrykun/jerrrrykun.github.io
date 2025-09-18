@@ -14,7 +14,7 @@ Currently, I am also a research intern at the AMD GenAI team. Previously, I did 
 
 News
 ------
-**Sep 2025**:    One paper accepted in Findings of NeurIPS 2025!🎉 [Go San Diego!](https://neurips.cc/)
+**Sep 2025**:    One paper accepted in NeurIPS 2025!🎉 [Go San Diego!](https://neurips.cc/)
 
 **Aug 2025**:    One paper accepted in Findings of EMNLP 2025!🎉
 
