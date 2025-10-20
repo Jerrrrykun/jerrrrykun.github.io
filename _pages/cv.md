@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+My latest CV is [here](https://drive.google.com/file/d/1n_S4BKVRjkk1e6y5hkJD6zsNuUxsJMJX/view?usp=sharing).
 
 Education
 ======
@@ -40,6 +41,6 @@ Highlighted Work Experience
 
 Service and Leadership
 ======
-[![reviews](https://img.shields.io/badge/total_reviews-40-blue)](https://jerrrrykun.github.io/cv/)
-* Reviewer for ARR cycles (ACL, EMNLP, NAACL, AACL)
+[![reviews](https://img.shields.io/badge/total_reviews-45-blue)](https://jerrrrykun.github.io/cv/)
+* Reviewer for ARR cycles (ACL, EMNLP, NAACL, AACL, EACL)
 * Reviewer for ICLR, ICML
