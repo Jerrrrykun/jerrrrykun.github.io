@@ -14,13 +14,13 @@ Previously, I did a research internship at Stanford SALT lab with Prof. [Diyi Ya
 
 News
 ------
-**Jul 2026**:    One paper accepted in COLM 2026!🎉
+**Jul 2026**:    One paper accepted in COLM 2026!🎉 [Go San Francisco!](https://colmweb.org/)
 
 **Apr 2026**:    One paper accepted in ACL 2026!🎉
 
 **Jan 2026**:    One paper accepted in ICLR 2026!🎉
 
-**Sep 2025**:    One paper accepted in NeurIPS 2025!🎉 [Go San Diego!](https://neurips.cc/)
+**Sep 2025**:    One paper accepted in NeurIPS 2025!🎉 [Go San Diego!](https://neurips.cc/Conferences/2025)
 
 **Aug 2025**:    One paper accepted in Findings of EMNLP 2025!🎉
 
