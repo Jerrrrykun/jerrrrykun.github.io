@@ -14,6 +14,8 @@ Previously, I did a research internship at Stanford SALT lab with Prof. [Diyi Ya
 
 News
 ------
+**Aug 2026**:    Two papers accepted in EMNLP 2026!🎉
+
 **Jul 2026**:    One paper accepted in COLM 2026!🎉 [Go San Francisco!](https://colmweb.org/)
 
 **Apr 2026**:    One paper accepted in ACL 2026!🎉

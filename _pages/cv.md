@@ -41,7 +41,7 @@ Highlighted Work Experience
 
 Service and Leadership
 ======
-[![reviews](https://img.shields.io/badge/total_reviews-66-blue)](https://jerrrrykun.github.io/cv/)
+[![reviews](https://img.shields.io/badge/total_reviews-70-blue)](https://jerrrrykun.github.io/cv/)
 * Reviewer for ARR cycles (ACL, EMNLP, NAACL, AACL, EACL)
-* Reviewer for ICLR, ICML, TMLR
+* Reviewer for ICLR, ICML, AAAI, TMLR
 * Reviewer for CVPR
