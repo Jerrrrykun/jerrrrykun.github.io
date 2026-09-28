@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-My latest CV is [here](https://drive.google.com/file/d/1n_S4BKVRjkk1e6y5hkJD6zsNuUxsJMJX/view?usp=sharing).
 
 Education
 ======
